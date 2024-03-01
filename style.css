@@ -1,0 +1,13 @@
+h1{ font-size: 200%;
+    color: blue;
+text-align: center;}
+
+h1 {font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+    h1 {border-style: solid;
+    border-color: blue;
+     border-width: 5px;}
+      
+     
